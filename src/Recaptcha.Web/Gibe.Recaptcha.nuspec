@@ -10,6 +10,6 @@
  <copyright></copyright>
  </metadata>
  <files>
-	<file src="Recaptcha.Web.dll" target="bin" />
+	<file src="bin/Release/Recaptcha.Web.dll" target="lib" />
  </files>
 </package>
