@@ -111,6 +111,7 @@
     <Compile Include="RecaptchaTheme.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Gibe.Recaptcha.nuspec" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

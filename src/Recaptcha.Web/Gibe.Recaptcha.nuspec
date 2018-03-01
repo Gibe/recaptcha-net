@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<package >
+ <metadata>
+ <id>Gibe.Recaptcha</id>
+ <version>$version$</version>
+ <authors>tanveery</authors>
+ <owners>tanveery</owners>
+ <requireLicenseAcceptance>false</requireLicenseAcceptance>
+ <description>tanveery/recaptcha-net but with a filter attribute</description>
+ <copyright></copyright>
+ </metadata>
+ <files>
+	<file src="Recaptcha.Web.dll" target="bin" />
+ </files>
+</package>
